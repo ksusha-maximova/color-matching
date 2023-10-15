@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "My Resume (CV)"
+    url: "https://maleksware.github.io/cv-kseniia/"
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
